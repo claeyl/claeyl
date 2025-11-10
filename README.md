@@ -1,6 +1,9 @@
 ## Hi, I'm Calley 🐾
 
-Currently a software developer at Orica. Curious to learn how to design and mantain large scale applications 💭
+Currently a software developer at Orica. Curious to learn how to design and mantain large scale applications and systems. 💭
+
+### What I'm up to
+Learning about vector search using Weaviate
 
 ### Find me on
 <a href="https://www.linkedin.com/in/calley-chai-8467b7252/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" /></a>
